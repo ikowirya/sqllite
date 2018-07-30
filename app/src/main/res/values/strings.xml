@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UjianBNSP</string>
+    <string name="BNSPSoal1">BNSPSoal1</string>
+    <string name="BNSPSoal2">BNSPSoal2</string>
+    <string name="nomor">Nomor</string>
+    <string name="email">Email</string>
+    <string name="nama">Nama</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="add_new">ADD NEW</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="kembali">KEMBALI</string>
+    <string name="update">UPDATE</string>
+</resources>
